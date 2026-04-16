@@ -16,7 +16,7 @@ int main(){
     }
 } */
 
-/* 2. Right-Aligned Column Number Pyramid (1, 12, 123...)
+/* 2. Right-Aligned Column Number Pyramid, (1, 12, 123...)
 C
 #include<stdio.h>
 int main(){
